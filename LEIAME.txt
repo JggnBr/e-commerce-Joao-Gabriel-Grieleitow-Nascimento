@@ -1,0 +1,22 @@
+TECH STORE — PROJETO E-COMMERCE
+
+Sobre o projeto
+Página de uma loja virtual de tecnologia, criada com HTML, CSS e JavaScript.
+
+Como abrir
+1. Extraia a pasta do projeto, se ela estiver compactada.
+2. Abra a pasta no Visual Studio Code.
+3. Abra o arquivo index.html no navegador.
+
+Estrutura dos arquivos
+- index.html: estrutura e conteúdo da página.
+- css/style.css: aparência e layout responsivo.
+- js/script.js: funções do menu, estimativa de frete e formulário.
+- img/: imagens dos produtos.
+
+Observações
+- O layout se adapta a celular, tablet e computador.
+- O cálculo de frete é apenas uma estimativa demonstrativa.
+- O formulário é demonstrativo e não envia mensagens para um servidor.
+
+
