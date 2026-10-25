@@ -37,7 +37,7 @@ shippingForm.addEventListener("submit", (event) => {
   // Regra ilustrativa: CEPs começando de 0 a 3 recebem frete reduzido.
   const primeiroNumero = Number(cep.charAt(0));
   if (primeiroNumero <= 3) {
-    shippingResult.textContent = "Frete estimado: R$ 10,90 • prazo de 3 a 5 dias úteis.";
+    shippingResult.textContent = "Frete Grátis • prazo de 3 a 5 dias úteis.";
   } else {
     shippingResult.textContent = "Frete estimado: R$ 19,90 • prazo de 5 a 8 dias úteis.";
   }
